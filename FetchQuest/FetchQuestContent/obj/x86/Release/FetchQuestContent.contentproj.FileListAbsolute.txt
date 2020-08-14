@@ -1,0 +1,3 @@
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuestContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuestContent\obj\x86\Release\FetchQuestContent.contentprojResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuestContent\obj\x86\Release\FetchQuestContent.contentprojResolveAssemblyReference.cache

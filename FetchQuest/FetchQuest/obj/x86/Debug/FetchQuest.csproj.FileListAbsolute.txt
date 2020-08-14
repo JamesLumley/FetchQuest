@@ -1,0 +1,1190 @@
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+c:\users\w1370837\documents\visual studio 2010\Projects\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\Map Generation V2\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Tileset_Scaled.xnb
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\New folder (4)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\Level Placement (fixed objectives placement)\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\title.xnb
+C:\Users\Chris\Desktop\Level Placement + Art + Upgrades\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\title.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\background.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\title.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\New folder (5)\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James\Desktop\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.7\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\Downloads\FetchQuest 1.2\New folder (5)\1.0.9\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\New folder\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James\Desktop\New folder (5)\1.1.Chris\1.0.5\LEVELLLLZZZZ\AI\Map Generation\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Relevant\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.1\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\FetchQuest v1.2.5\FetchQuest v1.2.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.6\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.2.7\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.2.8\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\GameDesignDan\FetchQuest v1.2.9\FetchQuest v1.2.9\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\Chris\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.0\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.2\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\James Laptop\Desktop\FetchQuest v1.3.3\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+C:\Users\w1370837\Downloads\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+F:\Portfolio Files\FetchQuest v1.4\FetchQuest v1.3.4\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe.manifest
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.application
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.exe
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\FetchQuest.pdb
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.csprojResolveAssemblyReference.cache
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe.manifest
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.application
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.exe
+F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\obj\x86\Debug\FetchQuest.pdb

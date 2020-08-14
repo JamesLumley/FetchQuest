@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\objectSheet.png</Source>
+      <Name>Textures\objectSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\objectSheet.xnb</Output>
+      <Time>2013-05-07T20:29:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Forest\Tileset_Scaled.png</Source>
+      <Name>Textures\Forest\Tileset_Scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Forest\Tileset_Scaled.xnb</Output>
+      <Time>2013-04-30T01:43:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Player_Scaled.png</Source>
+      <Name>Textures\Player_Scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Player_Scaled.xnb</Output>
+      <Time>2013-04-30T21:02:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Barrels_Scaled.png</Source>
+      <Name>Textures\Barrels_Scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Barrels_Scaled.xnb</Output>
+      <Time>2013-04-30T20:59:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Dungeon\Tileset_Scaled.png</Source>
+      <Name>Textures\Dungeon\Tileset_Scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Dungeon\Tileset_Scaled.xnb</Output>
+      <Time>2013-04-30T23:15:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cave\Tileset_Scaled.png</Source>
+      <Name>Textures\Cave\Tileset_Scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Cave\Tileset_Scaled.xnb</Output>
+      <Time>2013-05-07T16:15:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HUDsheet.png</Source>
+      <Name>Textures\HUDsheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HUDsheet.xnb</Output>
+      <Time>2014-02-14T12:40:11.5739263+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\enemy_tileset_scaled.png</Source>
+      <Name>Textures\enemy_tileset_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\enemy_tileset_scaled.xnb</Output>
+      <Time>2013-05-04T01:38:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Items_scaled.png</Source>
+      <Name>Textures\Items_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Items_scaled.xnb</Output>
+      <Time>2013-08-12T01:58:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TitleScreen.png</Source>
+      <Name>Textures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2013-08-11T16:47:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MenuScreen.png</Source>
+      <Name>Textures\MenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\MenuScreen.xnb</Output>
+      <Time>2013-08-11T16:35:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\QuestBacking.png</Source>
+      <Name>Textures\QuestBacking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\QuestBacking.xnb</Output>
+      <Time>2013-05-07T22:09:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Townsfolk_Full.png</Source>
+      <Name>Textures\Townsfolk_Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Townsfolk_Full.xnb</Output>
+      <Time>2013-05-07T22:12:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GameOver.png</Source>
+      <Name>Textures\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\GameOver.xnb</Output>
+      <Time>2013-05-07T22:56:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\CreditsScreen.png</Source>
+      <Name>Textures\CreditsScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\CreditsScreen.xnb</Output>
+      <Time>2013-08-11T18:49:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\boss_tileset_scaled.png</Source>
+      <Name>Textures\boss_tileset_scaled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\boss_tileset_scaled.xnb</Output>
+      <Time>2013-05-07T23:07:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossDefeated.png</Source>
+      <Name>Textures\BossDefeated</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossDefeated.xnb</Output>
+      <Time>2013-05-08T01:15:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossScreen.png</Source>
+      <Name>Textures\BossScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\BossScreen.xnb</Output>
+      <Time>2013-08-11T18:38:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ControlScreen.png</Source>
+      <Name>Textures\ControlScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\ControlScreen.xnb</Output>
+      <Time>2014-02-14T12:36:53.8481557+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyDetail.png</Source>
+      <Name>Textures\EnemyDetail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\EnemyDetail.xnb</Output>
+      <Time>2013-08-11T18:09:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Intro.png</Source>
+      <Name>Textures\Intro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\Intro.xnb</Output>
+      <Time>2013-08-11T17:34:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HealthBar.png</Source>
+      <Name>Textures\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Textures\HealthBar.xnb</Output>
+      <Time>2013-08-19T17:39:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.spritefont</Source>
+      <Name>MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\MenuFont.xnb</Output>
+      <Time>2013-05-07T19:43:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\step_hard_terrain.wav</Source>
+      <Name>Audio\step_hard_terrain</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\step_hard_terrain.xnb</Output>
+      <Time>2013-05-07T00:10:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\shoot_1.wav</Source>
+      <Name>Audio\shoot_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\shoot_1.xnb</Output>
+      <Time>2013-05-07T00:54:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\pickup_keyitem.wav</Source>
+      <Name>Audio\pickup_keyitem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\pickup_keyitem.xnb</Output>
+      <Time>2013-05-07T01:03:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_4.wav</Source>
+      <Name>Audio\explosion_4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_4.xnb</Output>
+      <Time>2013-05-07T01:10:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Main_2_loops.wav</Source>
+      <Name>Audio\Main_2_loops</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\Main_2_loops.xnb</Output>
+      <Time>2013-05-07T01:17:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_2.wav</Source>
+      <Name>Audio\explosion_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_2.xnb</Output>
+      <Time>2013-05-07T02:00:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_1.wav</Source>
+      <Name>Audio\explosion_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\explosion_1.xnb</Output>
+      <Time>2013-05-07T02:16:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\menu_blip.wav</Source>
+      <Name>Audio\menu_blip</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_blip.xnb</Output>
+      <Time>2013-05-07T02:29:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\menu_select.wav</Source>
+      <Name>Audio\menu_select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\menu_select.xnb</Output>
+      <Time>2013-05-07T02:29:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\maintheme.wav</Source>
+      <Name>Audio\maintheme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\maintheme.xnb</Output>
+      <Time>2013-08-11T18:03:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\bosstrack.wav</Source>
+      <Name>Audio\bosstrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\bosstrack.xnb</Output>
+      <Time>2013-08-11T17:38:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\creditstrack.wav</Source>
+      <Name>Audio\creditstrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\Audio\creditstrack.xnb</Output>
+      <Time>2013-08-11T17:53:54+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuestContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Portfolio Files\FetchQuest\FetchQuest\FetchQuest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-05T21:45:40.1524951+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
